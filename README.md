@@ -19,6 +19,7 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 - Semantic HTML5 markup
 - CSS custom properties
 - Bootstrap
+- CSS Variables
 - Flexbox
 - VS Code
 - Google Fonts
