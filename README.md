@@ -9,7 +9,7 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 
 
 
-- Solution URL: [Frontend Mentor]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/faq-accordion-solution-KRqep8EJXE)
 - Live Site URL: [Deploy](https://kalebemax.github.io/faq-accordion-main/)
 
 
