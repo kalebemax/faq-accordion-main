@@ -10,7 +10,7 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 
 
 - Solution URL: [Frontend Mentor]()
-- Live Site URL: [Deploy]()
+- Live Site URL: [Deploy](https://kalebemax.github.io/faq-accordion-main/)
 
 
 
